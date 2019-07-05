@@ -9,4 +9,8 @@ def initialize(title)
   @backers = []
 end
 
+def title
+  @title
+end
+
 end
